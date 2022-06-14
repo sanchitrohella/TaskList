@@ -1,0 +1,24 @@
+.border-line {
+  border-bottom: 1px solid #ccc;
+}
+
+.border-line-dark {
+  border-bottom: 2px solid #ccc;
+}
+
+.mark {
+  color: #ff4040;
+  background: none;
+}
+
+.delete:hover {
+  cursor: pointer;
+}
+
+.show {
+  display: flex !important;
+}
+
+.hide {
+  display: none !important;
+}
